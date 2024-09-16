@@ -1,8 +1,9 @@
+
 :root {
-  --foreground-color: black;
-  --background-color: white;
+  --foreground-color: rgb(195, 194, 194);
+  --background-color: rgb(57, 57, 57);
   --accent-color: #ffb300;
-  --neutral-color: #eeedf3;
+  --neutral-color: #251e45;
 
   --font-mono: monospace;
   --font-serif: serif;
@@ -45,4 +46,5 @@ button {
   font-size: 1rem;
 
   color: var(--foreground-color);
+  background-color: var(--background-color);
 }
